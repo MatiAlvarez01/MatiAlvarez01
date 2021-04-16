@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hola! 👋 Soy Matias
 
-<!--
-**MatiAlvarez01/MatiAlvarez01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💪 Estudiando para ser un gran programador 
 
-Here are some ideas to get you started:
+### 💻 Lenguajes y herramientas: 
+* HTML
+* CSS
+* Python
+* JavaScript
+* NodeJs
+* React
+* Bootstrap
+* MongoDB
+* SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Actualmente busco mi primer trabajo en Tech!**
+
+Mis hobbies son los deportes (⚽🏀🏂), las series 📺 y mi gran lado gamer 🎮
