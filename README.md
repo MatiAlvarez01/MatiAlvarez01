@@ -1,18 +1,24 @@
-# Hola! 👋 Soy Matias
+# Hi! 👋 My name is Matias 😀
 
-## 💪 Estudiando para ser un gran programador 
+## 💪 FullStack Developer 
 
-### 💻 Lenguajes y herramientas: 
+## 💻 Tech Stack: 
 * HTML
 * CSS
-* Python
 * JavaScript
-* NodeJs
-* React
-* Bootstrap
-* MongoDB
-* SQL
+* TypeScript
+* ReactJS
+* Redux
+* React Native
+* NodeJS
+* Express
+* PostgreSQL
+* Sequelize
 
-### **Actualmente busco mi primer trabajo en Tech!**
+## Hobbies:
+🎮📺💻🏂⚽🏀📚🏔✈
 
-Mis hobbies son los deportes (⚽🏀🏂), las series 📺 y mi gran lado gamer 🎮
+## Get in touch! 
+* **LinkedIn:** https://www.linkedin.com/in/matialvarez/
+* **Personal site:** https://matialvarez01.github.io/Portafolio/
+* **Email:** matialvarez.arg@gmail.com
