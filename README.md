@@ -20,5 +20,5 @@
 
 ## Get in touch! 
 * **LinkedIn:** https://www.linkedin.com/in/matialvarez/
-* **Personal site:** https://matialvarez01.github.io/Portafolio/
+* **Personal site:** https://matialvarez.vercel.app
 * **Email:** matialvarez.arg@gmail.com
