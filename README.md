@@ -1,8 +1,12 @@
 # Hi! 👋 My name is Matias 😀
 
-## 💪 FullStack Developer 
+## 💪 FullStack and Blockchain Developer 
 
 ## 💻 Tech Stack: 
+* Solidity
+* Hardhat
+* Web3
+* Ether
 * HTML
 * CSS
 * JavaScript
