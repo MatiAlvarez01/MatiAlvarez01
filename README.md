@@ -7,6 +7,7 @@
 * Hardhat
 * Web3
 * Ether
+* ThreeJS
 * HTML
 * CSS
 * JavaScript
@@ -18,6 +19,7 @@
 * Express
 * PostgreSQL
 * Sequelize
+* MongoDB
 
 ## Hobbies:
 🎮📺💻🏂⚽🏀📚🏔✈
