@@ -29,4 +29,4 @@
 * **Personal site:** https://matialvarez.vercel.app
 * **Email:** matialvarez.arg@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiAlvarez01&hide=html,css&exclude_repo=RepasoM3-main,tech-interview-preparation,ChampsLol-Web,wks-typescript,FT-M1,FT-M2,FT-M3,challenge-express,FT-M4,wks-React-Native,portfolioback,eattheblocks,)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiAlvarez01&hide=html,css&exclude_repo=RepasoM3-main,tech-interview-preparation,ChampsLol-Web,wks-typescript,FT-M1,FT-M2,FT-M3,challenge-express,FT-M4,wks-React-Native,portfolioback,eattheblocks&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
