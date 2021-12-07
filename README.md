@@ -29,4 +29,4 @@
 * **Personal site:** https://matialvarez.vercel.app
 * **Email:** matialvarez.arg@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiAlvarez01)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiAlvarez01&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
