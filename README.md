@@ -3,28 +3,47 @@
 ## 💪 FullStack and Blockchain Developer 
 
 ## 💻 Tech Stack: 
-* Solidity
-* Hardhat
-* Web3
-* Ether
-* ThreeJS
-* HTML
-* CSS
-* JavaScript
-* TypeScript
-* ReactJS
-* Redux
-* React Native
-* NodeJS
-* Express
-* PostgreSQL
-* Sequelize
-* MongoDB
-
-```solidity
-address name = "Matias"
+```js
+let webDeveloperStack = [
+  Html,
+  Css,
+  JavaScript,
+  TypeScript,
+  ReactJS,
+  React Native,
+  NodeJS,
+  Jest,
+  Chai,
+  ThreeJs,
+  PostgreSQL,
+  Sequelize,
+  MongoDB
+]
+```
+```js
+let blockChainStack = [
+  Solidity,
+  Hardhat,
+  Truffle,
+  Web3,
+  EtherJs,
+]
 ```
 ## Hobbies:
+```js
+let hobbies = {
+  videoGames: true,
+  movies: true,
+  tvSeries: true,
+  sports: {
+    snowboard: true,
+    soccer: true,
+    basketball: true
+  },
+  alwaysLearning: true,
+  travel: true
+}
+```
 🎮📺💻🏂⚽🏀📚🏔✈
 
 ## Get in touch! 
