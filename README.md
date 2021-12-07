@@ -21,7 +21,7 @@
 * Sequelize
 * MongoDB
 
-```sol
+```solidity
 address name = "Matias"
 ```
 ## Hobbies:
